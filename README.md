@@ -1,11 +1,13 @@
 <h1 align="center">Yves Casio, Fired up and ready to blow.</h1>
 <h3 align="center">Just a Full-stack Developer trying to get by while AI is whacking my opportunities one by one.</h3>
 
+<br>
 - 🌱 I’m currently learning **Node.js, Next.js, and CNN's**
 
 - 📫 Reach me in: **yveschristianpcasio@gmail.com**
 
 - ⚡ Fun fact **I'm too shy to sing but when I start, I will not stop.**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

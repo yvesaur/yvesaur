@@ -1,4 +1,4 @@
-<h1 align="center">Yves Casio, Fired up and ready to blow.</h1>
+<h1 align="center">:fire: Yves Casio, Fired up and ready to blow. :fire:</h1>
 <h3 align="center">Just a Full-stack Developer trying to get by while AI is whacking my opportunities one by one.</h3>
 
 <br>

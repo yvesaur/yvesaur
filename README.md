@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="display: block; margin: 0 auto;" src="ChibifyScreenshot-removebg-preview.png" alt="My Chibi" width="400" height="400">
+  <img style="display: block; margin: 0 auto;" src="pixel-art-ni-ako.png" alt="My Chibi" width="400" height="400">
 </p>
 
 <h1 align="center">:fire: Yves Casio, Fired up and ready to blow. :fire:</h1>

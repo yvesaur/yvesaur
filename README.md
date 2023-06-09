@@ -9,7 +9,7 @@
 
  🌱 I’m currently learning **Node.js, Next.js, CNN, Data Training, etc.**
 
- 📫 Reach me in: **yveschristianpcasio@gmail.com**
+ 📫 Reach me in my email: **yveschristianpcasio@gmail.com**
 
  ⚡ Fun fact **I'm too shy to sing but when I start, I will not stop.**
 <br>

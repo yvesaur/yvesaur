@@ -7,7 +7,7 @@
 
 <br>
 
- 🌱 I’m currently learning **Node.js, Next.js, CNN, Data Training, RegEx, etc.**
+ 🌱 I’m currently learning **Node.js, Next.js, React, CNN, Data Training, RegEx, etc.**
 
  📫 Reach me in my email: **yveschristianpcasio@gmail.com**
 

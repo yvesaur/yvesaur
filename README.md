@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">:fire: Yves Casio, Fired up and ready to blow. :fire:</h1>
-<h3 align="center">Aiming to be ultra mega full-stack web developer</h3>
+<h3 align="center">Aiming to be a top full-stack web developer in the Philippines!</h3>
 
 <br>
 

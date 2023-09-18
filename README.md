@@ -6,7 +6,7 @@
 <h3 align="center">Aiming to be a top full-stack web developer in the Philippines!</h3>
 
 <br/>
-🌱 I’m currently learning **Node.js, Next.js, React, CNN, Data Training, RegEx, and AI**
+🌱 I’m currently learning <b>Node.js, Next.js, React, CNN, Data Training, RegEx, and AI<b/>
 
 📫 Reach me in: **yveschristianpcasio@gmail.com**
 

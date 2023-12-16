@@ -29,8 +29,8 @@
 
 ## :blue_book: Current & Recent Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=recome&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/recome)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=book-library&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/recome)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=labyrinth-race&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/recome)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=book-library&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/book-library) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=labyrinth-race&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/labyrinth-race)
 
 ## :heart: Connect with me</h3>
 <p align="left">

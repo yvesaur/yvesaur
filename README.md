@@ -23,7 +23,7 @@
 
 <be>
 
- - :muscle: **Interest:** Web Development, Automation, Python scripts
+ - :muscle: **Interest:** Web Development, Automation, Python scripts, Machine Learning
  - 📫 Reach me in: **yveschristianpcasio@gmail.com**
  
 

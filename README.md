@@ -1,4 +1,4 @@
-<h1 align="center">:fire: Yves Casio, a menace to society :fire:</h1>
+<h1 align="center">:fire: Yves Casio, is cascading :fire:</h1>
 <div align="center">
 
   ![Static Badge](https://img.shields.io/badge/status-learning-green)
@@ -21,9 +21,11 @@
 ---
 <h3> A full stack developer who still uses vanilla CSS for styling.</h3>
 
-<br>
+<be>
 
-📫 Reach me in: **yveschristianpcasio@gmail.com**
+ - :muscle: **Interest:** Web Development, Automation, Python scripts
+ - 📫 Reach me in: **yveschristianpcasio@gmail.com**
+ 
 
 <br>
 

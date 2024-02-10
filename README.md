@@ -14,7 +14,7 @@
 </div>
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvesaur&layout=compact&theme=dark#gh-dark-mode-only)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvesaur&layout=compact&theme=dark#gh-dark-mode-only)    ![Leetcode Stats](https://leetcard.jacoblin.cool/yvesaur?theme=dark)
 </div>
 
 

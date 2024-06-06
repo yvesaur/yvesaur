@@ -33,6 +33,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=recome&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/recome)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=book-library&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/book-library) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=labyrinth-race&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/labyrinth-race)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=C3NS&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/C3NS)
 
 ## :heart: Connect with me</h3>
 <p align="left">

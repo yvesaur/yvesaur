@@ -19,7 +19,7 @@
 
 
 ---
-<h3> A full stack developer who still uses vanilla CSS for styling.</h3>
+<h3>Fueled by curiosity, transforms challenging requirements into elegant code.</h3>
 
 <be>
 

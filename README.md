@@ -5,8 +5,6 @@
   ![GitHub watchers](https://img.shields.io/github/watchers/yvesaur/recome)
   ![GitHub followers](https://img.shields.io/github/followers/yvesaur)
   ![GitHub User's stars](https://img.shields.io/github/stars/yvesaur)
-
-  <img src="pixel-art-ni-ako.png" alt="My Chibi" width="250" height="250">
 </div>
 <div align="center">
   

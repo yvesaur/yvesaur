@@ -30,7 +30,7 @@
 <br>
 
 ## :blue_book: Current Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=book-library&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/book-library) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=tic_tac_toe_game&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/tic_tac_toe_game) 
 
 ## :heart: Connect with me</h3>
 <p align="left">

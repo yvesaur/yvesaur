@@ -21,8 +21,7 @@
 <h2></h2>
 
 ### :blue_book: Current Project
-
-[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=restaurant-page-top&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/restaurant-page-top](https://github.com/yvesaur/todo-list)) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=todo-list&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/todo-list) 
 
 ### :heart: Connect with me</h3>
 <p align="left">

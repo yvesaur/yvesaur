@@ -4,24 +4,24 @@
 <div align="center">
   
   ![Static Badge](https://img.shields.io/badge/status-learning-green)
-  ![GitHub watchers](https://img.shields.io/github/watchers/yvesaur/recome)
-  ![GitHub followers](https://img.shields.io/github/followers/yvesaur)
-  ![GitHub User's stars](https://img.shields.io/github/stars/yvesaur)
+  ![GitHub watchers](https://img.shields.io/github/watchers/yvez-dev/recome)
+  ![GitHub followers](https://img.shields.io/github/followers/yvez-dev)
+  ![GitHub User's stars](https://img.shields.io/github/stars/yvez-dev)
 </div>
 
 <div align="center">
   
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yvesaur&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yvez-dev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 </div>
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvesaur&layout=compact&theme=dark#gh-dark-mode-only)    ![Leetcode Stats](https://leetcard.jacoblin.cool/yvesaur?theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvez-dev&layout=compact&theme=dark#gh-dark-mode-only)    ![Leetcode Stats](https://leetcard.jacoblin.cool/yvez-dev?theme=dark)
 </div>
 
 <h2></h2>
 
 ### :blue_book: Current Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvesaur&repo=todo-list&theme=dark#gh-dark-mode-only)](https://github.com/yvesaur/todo-list) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvez-dev&repo=todo-list&theme=dark#gh-dark-mode-only)](https://github.com/yvez-dev/todo-list) 
 
 ### :heart: Connect with me</h3>
 <p align="left">

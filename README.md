@@ -20,7 +20,8 @@
 
 <h2></h2>
 
-### :blue_book: Current Project
+### :blue_book: Latest Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvez-dev&repo=custom-dropdown-menu&theme=dark#gh-dark-mode-only)](https://github.com/yvez-dev/custom-dropdown-menu) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvez-dev&repo=todo-list&theme=dark#gh-dark-mode-only)](https://github.com/yvez-dev/todo-list) 
 
 ### :heart: Connect with me</h3>

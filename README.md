@@ -4,32 +4,32 @@
 <div align="center">
   
   ![Static Badge](https://img.shields.io/badge/status-learning-green)
-  ![GitHub watchers](https://img.shields.io/github/watchers/yvez-dev/recome)
-  ![GitHub followers](https://img.shields.io/github/followers/yvez-dev)
-  ![GitHub User's stars](https://img.shields.io/github/stars/yvez-dev)
+  ![GitHub watchers](https://img.shields.io/github/watchers/yvez404notfound/recome)
+  ![GitHub followers](https://img.shields.io/github/followers/yvez404notfound)
+  ![GitHub User's stars](https://img.shields.io/github/stars/yvez404notfound)
 </div>
 
 <div align="center">
   
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yvez-dev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yvez404notfound&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 </div>
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvez-dev&layout=compact&theme=dark#gh-dark-mode-only)    ![Leetcode Stats](https://leetcard.jacoblin.cool/yvez_dev?theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvez404notfound&layout=compact&theme=dark#gh-dark-mode-only)    ![Leetcode Stats](https://leetcard.jacoblin.cool/yvez404notfound?theme=dark)
 </div>
 
 <h2></h2>
 
 ### :blue_book: Latest Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvez-dev&repo=custom-dropdown-menu&theme=dark#gh-dark-mode-only)](https://github.com/yvez-dev/custom-dropdown-menu) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvez-dev&repo=todo-list&theme=dark#gh-dark-mode-only)](https://github.com/yvez-dev/todo-list) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=custom-dropdown-menu&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/custom-dropdown-menu) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=todo-list&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/todo-list) 
 
 ### :heart: Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yvescasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yvescasio" height="30" width="40" /></a>
 <a href="https://fb.com/yvezcasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yvezcasio" height="30" width="40" /></a>
 <a href="https://instagram.com/__yvezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__yvezz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yvez_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yvez_dev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yvez404notfound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yvez_dev" height="30" width="40" /></a>
 </p>
 
 </br>

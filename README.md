@@ -18,13 +18,12 @@
   ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yvez404notfound&theme=dark)   ![Leetcode Stats](https://leetcard.jacoblin.cool/yvez_dev?theme=dark)
 </div>
 
-<h2></h2>
+<h2 align="left">Latest Projects</h2>
 
-### :blue_book: Latest Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=custom-dropdown-menu&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/custom-dropdown-menu) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=todo-list&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/todo-list) 
 
-### :heart: Connect with me</h3>
+<h2 align="left">Connect With Me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/yvescasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yvescasio" height="30" width="40" /></a>
 <a href="https://fb.com/yvezcasio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yvezcasio" height="30" width="40" /></a>
@@ -32,8 +31,7 @@
 <a href="https://www.leetcode.com/yvez_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yvez_dev" height="30" width="40" /></a>
 </p>
 
-</br>
-<h2 align="left">:star2: Skills</h2>
+<h2 align="left">My Technical Skills</h2>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>

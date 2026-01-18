@@ -11,11 +11,11 @@
 
 <div align="center">
   
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yvez404notfound&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yvez404notfound&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 </div>
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvez404notfound&layout=compact&theme=dark#gh-dark-mode-only)    ![Leetcode Stats](https://leetcard.jacoblin.cool/yvez_dev?theme=dark)
+  ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yvez404notfound&theme=dark)   ![Leetcode Stats](https://leetcard.jacoblin.cool/yvez_dev?theme=dark)
 </div>
 
 <h2></h2>
